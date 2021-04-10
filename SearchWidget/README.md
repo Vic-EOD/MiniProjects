@@ -1,0 +1,1 @@
+Expanding search widget.
